@@ -99,7 +99,7 @@ const ENTRIES = [
   { name: "Adam Taylor", paid: false,  players: ["Declan Rice", "Virgil Van Dijk", "Dominik Szoboszlai", "Emile Smith Rowe"] },
   { name: "Ebun Karim", paid: false,  players: ["Bruno Fernandes", "Ismalia Sarr", "Virgil Van Dijk", "Daniel Munoz"] },
   { name: "Chris Dent", paid: false,  players: ["Brian Brobbey", "Mo Belloumi", "Dominik Szoboszlai", "Nico O'Reilly"] },
-  { name: "Tom Leeman", paid: true,  players: ["Bruno Fernandes", "Harry Wilson", "Ismalia Sarr", "Maises Caicedo"] },
+  { name: "Tom Leeman", paid: true,  players: ["Bruno Fernandes", "Harry Wilson", "Ismalia Sarr", "Moises Caicedo"] },
   { name: "Charlie Olsson", paid: false,  players: ["Declan Rice", "Kevin Schade", "Tarik Muharemović", "Harry McGuire"] },
   { name: "Kev Mitchell", paid: true,  players: ["Matty Cash", "Gustavo Hamer", "Jacob Murphy", "Youri Tielemans"] },
   { name: "Dean Jackson", paid: true,  players: ["Declan Rice", "Harry Wilson", "Jacob Murphy", "Youri Tielemans"] },
