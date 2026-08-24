@@ -54,7 +54,7 @@ const CLUBS = {
 // PLAYERS — edit goals here. "club" is the 3-letter code from CLUBS above.
 const PLAYERS = [
   { name: "Kai Havertz",   club: "ARS", goals: 1, out: false },
-  { name: "Declan Rice",   club: "ARS", goals: 20, out: false },
+  { name: "Declan Rice",   club: "ARS", goals: 0, out: false },
   { name: "John McGinn",  club: "AVL", goals: 0, out: false },
   { name: "Matty Cash",  club: "AVL", goals: 0, out: false },
   { name: "Kevin Schade",  club: "BRE", goals: 0, out: false },
