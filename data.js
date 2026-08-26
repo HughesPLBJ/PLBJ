@@ -80,7 +80,7 @@ const PLAYERS = [
   { name: "Nico O'Reilly", club: "MCI", goals: 0, out: false },
   { name: "Rayan Cherki", club: "MCI", goals: 0, out: false },
   { name: "Bruno Fernandes", club: "MUN", goals: 0, out: false },
-  { name: "Matheus Chunha", club: "MUN", goals: 0, out: false },
+  { name: "Matheus Cunha", club: "MUN", goals: 0, out: false },
   { name: "Youri Tielemans", club: "MUN", goals: 0, out: false },
   { name: "Harry McGuire", club: "MUN", goals: 0, out: false },
   { name: "Malick Thiaw", club: "NEW", goals: 0, out: false },
@@ -93,7 +93,7 @@ const PLAYERS = [
 const ENTRIES = [
   { name: "Lewis Hughes", paid: false, players: ["Bruno Fernandes", "Virgil Van Dijk", "Anton Stach", "John McGinn"] },
   { name: "Ryan Archer", paid: false,  players: ["Gonzalo Garcia", "Virgil Van Dijk", "Anton Stach", "Kai Havertz"] },
-  { name: "Nathan Beevers", paid: true,  players: ["Oli McBurnie", "Malick Thiaw", "Illiman NDiaye", "Nico O'Rielly"] },
+  { name: "Nathan Beevers", paid: true,  players: ["Oli McBurnie", "Malick Thiaw", "Illiman NDiaye", "Nico O'Reilly"] },
   { name: "Tom Millbank", paid: false,  players: ["Bruno Fernandes", "Elliot Anderson", "Marc Guehi", "James Tarkowski"] },
   { name: "Jack Wrigglesworth", paid: false,  players: ["Morgan Rogers", "Tarik Muharemović", "Danny Welbeck", "Matheus Cunha"] },
   { name: "Adam Taylor", paid: false,  players: ["Declan Rice", "Virgil Van Dijk", "Dominik Szoboszlai", "Emile Smith Rowe"] },
