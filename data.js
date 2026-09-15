@@ -24,7 +24,7 @@
 // ============================================================
 
 const CAP = 21;
-const LAST_UPDATED = "23/08/26";
+const LAST_UPDATED = "15/09/26";
 
 // Club colours — primary hex used for the badge + accent bar.
 // Add or edit clubs here; the 3-letter code is what players reference.
@@ -57,9 +57,9 @@ const PLAYERS = [
   { name: "Declan Rice",   club: "ARS", goals: 0, out: false },
   { name: "John McGinn",  club: "AVL", goals: 0, out: false },
   { name: "Matty Cash",  club: "AVL", goals: 0, out: false },
-  { name: "Kevin Schade",  club: "BRE", goals: 1, out: false },
+  { name: "Kevin Schade",  club: "BRE", goals: 3, out: false },
   { name: "Moises Caicedo",  club: "CHE", goals: 0, out: false },
-  { name: "Morgan Rogers",  club: "CHE", goals: 2, out: false },
+  { name: "Morgan Rogers",  club: "CHE", goals: 3, out: false },
   { name: "Danny Welbeck",  club: "CHE", goals: 0, out: false },
   { name: "Gustavo Hamer",  club: "COV", goals: 0, out: false },
   { name: "Ismalia Sarr",  club: "CRY", goals: 0, out: false },
@@ -67,7 +67,7 @@ const PLAYERS = [
   { name: "Gonzalo Garcia",  club: "FUL", goals: 1, out: false },
   { name: "Emile Smith Rowe",  club: "FUL", goals: 0, out: false },
   { name: "Oli McBurnie",  club: "HUL", goals: 0, out: false },
-  { name: "Mo Belloumi",  club: "HUL", goals: 0, out: false },
+  { name: "Mo Belloumi",  club: "HUL", goals: 2, out: false },
   { name: "Anton Stach", club: "LEE", goals: 1, out: false },
   { name: "Harry Wilson", club: "LEE", goals: 0, out: false },
   { name: "Tarik Muharemović", club: "LEE", goals: 0, out: false },
@@ -102,6 +102,6 @@ const ENTRIES = [
   { name: "Tom Leeman", paid: true,  players: ["Bruno Fernandes", "Harry Wilson", "Ismalia Sarr", "Moises Caicedo"] },
   { name: "Charlie Olsson", paid: false,  players: ["Declan Rice", "Kevin Schade", "Tarik Muharemović", "Harry McGuire"] },
   { name: "Kev Mitchell", paid: true,  players: ["Matty Cash", "Gustavo Hamer", "Illiman NDiaye", "Youri Tielemans"] },
-  { name: "Dean Jackson", paid: true,  players: ["Declan Rice", "Harry Wilson", "Jacob Murphy", "Youri Tielemans"] },
+  { name: "Dean Jackson", paid: true,  players: ["Declan Rice", "Elliot Anderson", "Jacob Murphy", "Youri Tielemans"] },
   { name: "Rob Bedford", paid: true,  players: ["Rayan Cherki", "Harry Wilson", "Declan Rice", "John McGinn"] },
 ];
