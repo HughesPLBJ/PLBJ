@@ -24,7 +24,7 @@
 // ============================================================
 
 const CAP = 21;
-const LAST_UPDATED = "15/09/26";
+const LAST_UPDATED = "22/09/26";
 
 // Club colours — primary hex used for the badge + accent bar.
 // Add or edit clubs here; the 3-letter code is what players reference.
@@ -76,10 +76,10 @@ const PLAYERS = [
   { name: "Elliot Anderson", club: "MCI", goals: 0, out: false },
   { name: "Marc Guehi", club: "MCI", goals: 1, out: false },
   { name: "Nico O'Reilly", club: "MCI", goals: 0, out: false },
-  { name: "Rayan Cherki", club: "MCI", goals: 2, out: false },
+  { name: "Rayan Cherki", club: "MCI", goals: 3, out: false },
   { name: "Illiman NDiaye",  club: "MCI", goals: 0, out: false },
   { name: "Bruno Fernandes", club: "MUN", goals: 3, out: false },
-  { name: "Matheus Cunha", club: "MUN", goals: 0, out: false },
+  { name: "Matheus Cunha", club: "MUN", goals: 1, out: false },
   { name: "Youri Tielemans", club: "MUN", goals: 0, out: false },
   { name: "Harry McGuire", club: "MUN", goals: 0, out: false },
   { name: "Malick Thiaw", club: "NEW", goals: 0, out: false },
