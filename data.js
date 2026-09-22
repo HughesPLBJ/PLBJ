@@ -85,7 +85,7 @@ const PLAYERS = [
   { name: "Malick Thiaw", club: "NEW", goals: 0, out: false },
   { name: "Jacob Murphy", club: "NEW", goals: 0, out: false },
   { name: "Daniel Munoz",  club: "NFO", goals: 0, out: false },
-  { name: "Brian Brobbey", club: "SUN", goals: 0, out: false },
+  { name: "Brian Brobbey", club: "SUN", goals: 3, out: false },
 
 ];
 
