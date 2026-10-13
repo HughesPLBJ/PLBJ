@@ -24,7 +24,7 @@
 // ============================================================
 
 const CAP = 21;
-const LAST_UPDATED = "22/09/26";
+const LAST_UPDATED = "13/10/26";
 
 // Club colours — primary hex used for the badge + accent bar.
 // Add or edit clubs here; the 3-letter code is what players reference.
@@ -55,11 +55,11 @@ const CLUBS = {
 const PLAYERS = [
   { name: "Kai Havertz",   club: "ARS", goals: 2, out: false },
   { name: "Declan Rice",   club: "ARS", goals: 0, out: false },
-  { name: "John McGinn",  club: "AVL", goals: 0, out: false },
+  { name: "John McGinn",  club: "AVL", goals: 1, out: false },
   { name: "Matty Cash",  club: "AVL", goals: 0, out: false },
   { name: "Kevin Schade",  club: "BRE", goals: 3, out: false },
   { name: "Moises Caicedo",  club: "CHE", goals: 0, out: false },
-  { name: "Morgan Rogers",  club: "CHE", goals: 3, out: false },
+  { name: "Morgan Rogers",  club: "CHE", goals: 4, out: false },
   { name: "Danny Welbeck",  club: "CHE", goals: 0, out: false },
   { name: "Gustavo Hamer",  club: "COV", goals: 0, out: false },
   { name: "Ismalia Sarr",  club: "CRY", goals: 0, out: false },
@@ -67,7 +67,7 @@ const PLAYERS = [
   { name: "Gonzalo Garcia",  club: "FUL", goals: 1, out: false },
   { name: "Emile Smith Rowe",  club: "FUL", goals: 0, out: false },
   { name: "Oli McBurnie",  club: "HUL", goals: 0, out: false },
-  { name: "Mo Belloumi",  club: "HUL", goals: 2, out: false },
+  { name: "Mo Belloumi",  club: "HUL", goals: 3, out: false },
   { name: "Anton Stach", club: "LEE", goals: 1, out: false },
   { name: "Harry Wilson", club: "LEE", goals: 0, out: false },
   { name: "Tarik Muharemović", club: "LEE", goals: 0, out: false },
@@ -76,7 +76,7 @@ const PLAYERS = [
   { name: "Elliot Anderson", club: "MCI", goals: 0, out: false },
   { name: "Marc Guehi", club: "MCI", goals: 1, out: false },
   { name: "Nico O'Reilly", club: "MCI", goals: 0, out: false },
-  { name: "Rayan Cherki", club: "MCI", goals: 3, out: false },
+  { name: "Rayan Cherki", club: "MCI", goals: 4, out: false },
   { name: "Illiman NDiaye",  club: "MCI", goals: 0, out: false },
   { name: "Bruno Fernandes", club: "MUN", goals: 3, out: false },
   { name: "Matheus Cunha", club: "MUN", goals: 1, out: false },
