@@ -24,7 +24,7 @@
 // ============================================================
 
 const CAP = 21;
-const LAST_UPDATED = "13/10/26";
+const LAST_UPDATED = "28/10/26";
 
 // Club colours — primary hex used for the badge + accent bar.
 // Add or edit clubs here; the 3-letter code is what players reference.
@@ -66,7 +66,7 @@ const PLAYERS = [
   { name: "James Tarkowski",  club: "EVE", goals: 1, out: false },
   { name: "Gonzalo Garcia",  club: "FUL", goals: 1, out: false },
   { name: "Emile Smith Rowe",  club: "FUL", goals: 0, out: false },
-  { name: "Oli McBurnie",  club: "HUL", goals: 0, out: false },
+  { name: "Oli McBurnie",  club: "HUL", goals: 1, out: false },
   { name: "Mo Belloumi",  club: "HUL", goals: 3, out: false },
   { name: "Anton Stach", club: "LEE", goals: 1, out: false },
   { name: "Harry Wilson", club: "LEE", goals: 0, out: false },
