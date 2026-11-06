@@ -24,7 +24,7 @@
 // ============================================================
 
 const CAP = 21;
-const LAST_UPDATED = "28/10/26";
+const LAST_UPDATED = "05/11/26";
 
 // Club colours — primary hex used for the badge + accent bar.
 // Add or edit clubs here; the 3-letter code is what players reference.
@@ -53,20 +53,20 @@ const CLUBS = {
 
 // PLAYERS — edit goals here. "club" is the 3-letter code from CLUBS above.
 const PLAYERS = [
-  { name: "Kai Havertz",   club: "ARS", goals: 2, out: false },
+  { name: "Kai Havertz",   club: "ARS", goals: 3, out: false },
   { name: "Declan Rice",   club: "ARS", goals: 0, out: false },
   { name: "John McGinn",  club: "AVL", goals: 1, out: false },
   { name: "Matty Cash",  club: "AVL", goals: 0, out: false },
   { name: "Kevin Schade",  club: "BRE", goals: 3, out: false },
   { name: "Moises Caicedo",  club: "CHE", goals: 0, out: false },
-  { name: "Morgan Rogers",  club: "CHE", goals: 4, out: false },
+  { name: "Morgan Rogers",  club: "CHE", goals: 5, out: false },
   { name: "Danny Welbeck",  club: "CHE", goals: 0, out: false },
   { name: "Gustavo Hamer",  club: "COV", goals: 0, out: false },
   { name: "Ismalia Sarr",  club: "CRY", goals: 0, out: false },
   { name: "James Tarkowski",  club: "EVE", goals: 1, out: false },
   { name: "Gonzalo Garcia",  club: "FUL", goals: 1, out: false },
   { name: "Emile Smith Rowe",  club: "FUL", goals: 0, out: false },
-  { name: "Oli McBurnie",  club: "HUL", goals: 1, out: false },
+  { name: "Oli McBurnie",  club: "HUL", goals: 2, out: false },
   { name: "Mo Belloumi",  club: "HUL", goals: 3, out: false },
   { name: "Anton Stach", club: "LEE", goals: 1, out: false },
   { name: "Harry Wilson", club: "LEE", goals: 0, out: false },
